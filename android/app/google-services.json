@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140280106213",
+    "project_id": "smartstudyapp-54d78",
+    "storage_bucket": "smartstudyapp-54d78.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140280106213:android:9642d9e9a98fc2f12f980c",
+        "android_client_info": {
+          "package_name": "com.example.smart_study_scheduler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7AR2NgvVJJ9xom5SSb3j5wsbhQg-zS_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
